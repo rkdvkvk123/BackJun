@@ -1,4 +1,4 @@
-package 백준;
+package BackJun;
 
 import java.util.Scanner;
 
