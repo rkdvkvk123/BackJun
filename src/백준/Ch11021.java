@@ -29,6 +29,7 @@ Case #2: 5
 Case #3: 7
 Case #4: 17
 Case #5: 7
+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
 */
 public class Ch11021 {
 	public static void main(String[] args) throws Exception {
