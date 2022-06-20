@@ -17,6 +17,7 @@ public class Ch10818 {
 		
 		Scanner sc = new Scanner(System.in); 
 		
+		
 		int n = sc.nextInt();
 		int arr[] = new int[n];
 		
